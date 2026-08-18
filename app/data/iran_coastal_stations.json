@@ -1,0 +1,14 @@
+[
+  { "id": "CS001", "name": "Hormuz VTS Center", "type": "VTS", "lat": 27.06, "lon": 56.46, "frequency": "VHF Ch 10", "range_nm": 48, "operator": "PMO", "status": "active" },
+  { "id": "CS002", "name": "Bandar Abbas AIS Base", "type": "AIS Base", "lat": 27.18, "lon": 56.21, "frequency": "161.975 MHz", "range_nm": 60, "operator": "PMO", "status": "active" },
+  { "id": "CS003", "name": "Kish Island Lighthouse", "type": "Lighthouse", "lat": 26.53, "lon": 53.91, "frequency": "Fl W 10s", "range_nm": 18, "operator": "PMO", "status": "active" },
+  { "id": "CS004", "name": "Bushehr VTS", "type": "VTS", "lat": 28.91, "lon": 50.83, "frequency": "VHF Ch 12", "range_nm": 40, "operator": "PMO", "status": "active" },
+  { "id": "CS005", "name": "Kharg Coastal Radar", "type": "Coastal Radar", "lat": 29.23, "lon": 50.31, "frequency": "9410 MHz", "range_nm": 55, "operator": "NIOC", "status": "active" },
+  { "id": "CS006", "name": "Chabahar AIS Base", "type": "AIS Base", "lat": 25.29, "lon": 60.6, "frequency": "162.025 MHz", "range_nm": 60, "operator": "PMO", "status": "active" },
+  { "id": "CS007", "name": "Anzali VTS", "type": "VTS", "lat": 37.48, "lon": 49.46, "frequency": "VHF Ch 14", "range_nm": 35, "operator": "PMO", "status": "active" },
+  { "id": "CS008", "name": "Nowshahr Lighthouse", "type": "Lighthouse", "lat": 36.66, "lon": 51.49, "frequency": "Fl(2) W 12s", "range_nm": 15, "operator": "PMO", "status": "active" },
+  { "id": "CS009", "name": "Amirabad AIS Base", "type": "AIS Base", "lat": 36.86, "lon": 53.36, "frequency": "161.975 MHz", "range_nm": 55, "operator": "PMO", "status": "active" },
+  { "id": "CS010", "name": "Assaluyeh Coastal Radar", "type": "Coastal Radar", "lat": 27.47, "lon": 52.6, "frequency": "9375 MHz", "range_nm": 50, "operator": "PMO", "status": "active" },
+  { "id": "CS011", "name": "Qeshm Lighthouse", "type": "Lighthouse", "lat": 26.74, "lon": 55.74, "frequency": "Fl W 8s", "range_nm": 16, "operator": "PMO", "status": "active" },
+  { "id": "CS012", "name": "Bandar Lengeh AIS Base", "type": "AIS Base", "lat": 26.55, "lon": 54.87, "frequency": "162.025 MHz", "range_nm": 50, "operator": "PMO", "status": "inactive" }
+]

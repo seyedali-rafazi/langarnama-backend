@@ -1,0 +1,14 @@
+[
+  { "id": "PT001", "name": "Shahid Rajaee Port", "locode": "IRBND", "lat": 27.1, "lon": 56.06, "city": "Bandar Abbas", "country": "Iran", "berths": 40, "maxDraft_m": 16.5 },
+  { "id": "PT002", "name": "Bushehr Port", "locode": "IRBUZ", "lat": 28.97, "lon": 50.84, "city": "Bushehr", "country": "Iran", "berths": 14, "maxDraft_m": 9.5 },
+  { "id": "PT003", "name": "Bandar Imam Khomeini", "locode": "IRBKM", "lat": 30.43, "lon": 49.08, "city": "Bandar Imam Khomeini", "country": "Iran", "berths": 38, "maxDraft_m": 12.5 },
+  { "id": "PT004", "name": "Kharg Island Oil Terminal", "locode": "IRKHK", "lat": 29.25, "lon": 50.33, "city": "Kharg Island", "country": "Iran", "berths": 10, "maxDraft_m": 22 },
+  { "id": "PT005", "name": "Assaluyeh / Pars Port", "locode": "IRASA", "lat": 27.47, "lon": 52.61, "city": "Assaluyeh", "country": "Iran", "berths": 18, "maxDraft_m": 14 },
+  { "id": "PT006", "name": "Kish Island Port", "locode": "IRKIH", "lat": 26.55, "lon": 53.99, "city": "Kish", "country": "Iran", "berths": 6, "maxDraft_m": 6.5 },
+  { "id": "PT007", "name": "Qeshm Port", "locode": "IRQSM", "lat": 26.96, "lon": 56.27, "city": "Qeshm", "country": "Iran", "berths": 5, "maxDraft_m": 6 },
+  { "id": "PT008", "name": "Chabahar Shahid Beheshti", "locode": "IRZBR", "lat": 25.3, "lon": 60.62, "city": "Chabahar", "country": "Iran", "berths": 10, "maxDraft_m": 16 },
+  { "id": "PT009", "name": "Bandar Lengeh Port", "locode": "IRBDL", "lat": 26.56, "lon": 54.88, "city": "Bandar Lengeh", "country": "Iran", "berths": 6, "maxDraft_m": 5.5 },
+  { "id": "PT010", "name": "Bandar Anzali Port", "locode": "IRBAZ", "lat": 37.47, "lon": 49.46, "city": "Bandar Anzali", "country": "Iran", "berths": 12, "maxDraft_m": 5.5 },
+  { "id": "PT011", "name": "Nowshahr Port", "locode": "IRNSH", "lat": 36.66, "lon": 51.5, "city": "Nowshahr", "country": "Iran", "berths": 8, "maxDraft_m": 5 },
+  { "id": "PT012", "name": "Amirabad Port", "locode": "IRAMD", "lat": 36.85, "lon": 53.37, "city": "Behshahr", "country": "Iran", "berths": 15, "maxDraft_m": 5.5 }
+]

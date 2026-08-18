@@ -1,0 +1,2986 @@
+[
+  {
+    "id": "SH1001",
+    "name": "SIRIUS GLORY",
+    "mmsi": "422558051",
+    "operator": "Gulf Energy Marine",
+    "shipType": "tanker",
+    "lat": 28.2755,
+    "lon": 51.1415,
+    "heading_deg": 139,
+    "speed_kts": 11.8,
+    "draft_m": 18.8,
+    "length_m": 276,
+    "origin_port": "Kharg Island Terminal",
+    "destination_port": "Gulf of Oman (Eastbound)",
+    "path": [
+      [
+        29.2,
+        50.25
+      ],
+      [
+        27.8,
+        51.6
+      ],
+      [
+        26.45,
+        53.85
+      ],
+      [
+        25.95,
+        54.5
+      ],
+      [
+        26.45,
+        56.6
+      ],
+      [
+        25.85,
+        57.1
+      ],
+      [
+        25.2,
+        57.9
+      ],
+      [
+        24.7,
+        58.9
+      ],
+      [
+        24.45,
+        60.1
+      ]
+    ],
+    "lastUpdate": "2026-06-09T20:28:39Z"
+  },
+  {
+    "id": "SH1002",
+    "name": "PERSIA PEARL",
+    "mmsi": "422854088",
+    "operator": "NITC",
+    "shipType": "tanker",
+    "lat": 26.2073,
+    "lon": 55.5808,
+    "heading_deg": 75,
+    "speed_kts": 12.3,
+    "draft_m": 17.1,
+    "length_m": 290,
+    "origin_port": "Assaluyeh",
+    "destination_port": "Gulf of Oman (Eastbound)",
+    "path": [
+      [
+        27.4,
+        52.55
+      ],
+      [
+        26.45,
+        53.85
+      ],
+      [
+        25.95,
+        54.5
+      ],
+      [
+        26.45,
+        56.6
+      ],
+      [
+        25.85,
+        57.1
+      ],
+      [
+        25.2,
+        57.9
+      ],
+      [
+        24.7,
+        58.9
+      ]
+    ],
+    "lastUpdate": "2026-06-09T12:13:15Z"
+  },
+  {
+    "id": "SH1003",
+    "name": "KHARG STAR",
+    "mmsi": "422286682",
+    "operator": "NITC",
+    "shipType": "tanker",
+    "lat": 26.3898,
+    "lon": 53.9283,
+    "heading_deg": 311,
+    "speed_kts": 13.1,
+    "draft_m": 16.8,
+    "length_m": 298,
+    "origin_port": "Gulf of Oman",
+    "destination_port": "Kharg Island Terminal",
+    "path": [
+      [
+        24.7,
+        58.9
+      ],
+      [
+        25.2,
+        57.9
+      ],
+      [
+        25.85,
+        57.1
+      ],
+      [
+        26.45,
+        56.6
+      ],
+      [
+        25.95,
+        54.5
+      ],
+      [
+        26.45,
+        53.85
+      ],
+      [
+        27.8,
+        51.6
+      ],
+      [
+        29.2,
+        50.25
+      ]
+    ],
+    "lastUpdate": "2026-06-09T02:21:48Z"
+  },
+  {
+    "id": "SH1004",
+    "name": "DENA CROWN",
+    "mmsi": "422596555",
+    "operator": "Gulf Energy Marine",
+    "shipType": "tanker",
+    "lat": 24.9423,
+    "lon": 58.4154,
+    "heading_deg": 119,
+    "speed_kts": 9.8,
+    "draft_m": 17.5,
+    "length_m": 308,
+    "origin_port": "Kharg Island Terminal",
+    "destination_port": "Gulf of Oman (Eastbound)",
+    "path": [
+      [
+        29.2,
+        50.25
+      ],
+      [
+        27.8,
+        51.6
+      ],
+      [
+        26.45,
+        53.85
+      ],
+      [
+        25.95,
+        54.5
+      ],
+      [
+        26.45,
+        56.6
+      ],
+      [
+        25.85,
+        57.1
+      ],
+      [
+        25.2,
+        57.9
+      ],
+      [
+        24.7,
+        58.9
+      ],
+      [
+        24.45,
+        60.1
+      ]
+    ],
+    "lastUpdate": "2026-06-09T01:37:30Z"
+  },
+  {
+    "id": "SH1005",
+    "name": "GULF HORIZON",
+    "mmsi": "422284702",
+    "operator": "NITC",
+    "shipType": "tanker",
+    "lat": 25.2147,
+    "lon": 57.882,
+    "heading_deg": 132,
+    "speed_kts": 9.9,
+    "draft_m": 14.8,
+    "length_m": 297,
+    "origin_port": "Assaluyeh",
+    "destination_port": "Gulf of Oman (Eastbound)",
+    "path": [
+      [
+        27.4,
+        52.55
+      ],
+      [
+        26.45,
+        53.85
+      ],
+      [
+        25.95,
+        54.5
+      ],
+      [
+        26.45,
+        56.6
+      ],
+      [
+        25.85,
+        57.1
+      ],
+      [
+        25.2,
+        57.9
+      ],
+      [
+        24.7,
+        58.9
+      ]
+    ],
+    "lastUpdate": "2026-06-09T22:54:56Z"
+  },
+  {
+    "id": "SH1006",
+    "name": "AMITIS",
+    "mmsi": "422594865",
+    "operator": "Pars Oil Shipping",
+    "shipType": "tanker",
+    "lat": 26.0449,
+    "lon": 54.3766,
+    "heading_deg": 311,
+    "speed_kts": 9.4,
+    "draft_m": 14.2,
+    "length_m": 281,
+    "origin_port": "Gulf of Oman",
+    "destination_port": "Kharg Island Terminal",
+    "path": [
+      [
+        24.7,
+        58.9
+      ],
+      [
+        25.2,
+        57.9
+      ],
+      [
+        25.85,
+        57.1
+      ],
+      [
+        26.45,
+        56.6
+      ],
+      [
+        25.95,
+        54.5
+      ],
+      [
+        26.45,
+        53.85
+      ],
+      [
+        27.8,
+        51.6
+      ],
+      [
+        29.2,
+        50.25
+      ]
+    ],
+    "lastUpdate": "2026-06-09T14:20:01Z"
+  },
+  {
+    "id": "SH1007",
+    "name": "SARV ENERGY",
+    "mmsi": "422339434",
+    "operator": "NITC",
+    "shipType": "tanker",
+    "lat": 26.2121,
+    "lon": 56.7982,
+    "heading_deg": 143,
+    "speed_kts": 13.1,
+    "draft_m": 17.8,
+    "length_m": 290,
+    "origin_port": "Kharg Island Terminal",
+    "destination_port": "Gulf of Oman (Eastbound)",
+    "path": [
+      [
+        29.2,
+        50.25
+      ],
+      [
+        27.8,
+        51.6
+      ],
+      [
+        26.45,
+        53.85
+      ],
+      [
+        25.95,
+        54.5
+      ],
+      [
+        26.45,
+        56.6
+      ],
+      [
+        25.85,
+        57.1
+      ],
+      [
+        25.2,
+        57.9
+      ],
+      [
+        24.7,
+        58.9
+      ],
+      [
+        24.45,
+        60.1
+      ]
+    ],
+    "lastUpdate": "2026-06-09T18:54:52Z"
+  },
+  {
+    "id": "SH1008",
+    "name": "HENGAM SUN",
+    "mmsi": "422426674",
+    "operator": "Pars Oil Shipping",
+    "shipType": "tanker",
+    "lat": 26.2104,
+    "lon": 56.7997,
+    "heading_deg": 143,
+    "speed_kts": 10.6,
+    "draft_m": 15,
+    "length_m": 326,
+    "origin_port": "Assaluyeh",
+    "destination_port": "Gulf of Oman (Eastbound)",
+    "path": [
+      [
+        27.4,
+        52.55
+      ],
+      [
+        26.45,
+        53.85
+      ],
+      [
+        25.95,
+        54.5
+      ],
+      [
+        26.45,
+        56.6
+      ],
+      [
+        25.85,
+        57.1
+      ],
+      [
+        25.2,
+        57.9
+      ],
+      [
+        24.7,
+        58.9
+      ]
+    ],
+    "lastUpdate": "2026-06-09T03:18:06Z"
+  },
+  {
+    "id": "SH1009",
+    "name": "PARSA TRIUMPH",
+    "mmsi": "422667864",
+    "operator": "Pars Oil Shipping",
+    "shipType": "tanker",
+    "lat": 27.2124,
+    "lon": 52.5794,
+    "heading_deg": 304,
+    "speed_kts": 14,
+    "draft_m": 13.7,
+    "length_m": 252,
+    "origin_port": "Gulf of Oman",
+    "destination_port": "Kharg Island Terminal",
+    "path": [
+      [
+        24.7,
+        58.9
+      ],
+      [
+        25.2,
+        57.9
+      ],
+      [
+        25.85,
+        57.1
+      ],
+      [
+        26.45,
+        56.6
+      ],
+      [
+        25.95,
+        54.5
+      ],
+      [
+        26.45,
+        53.85
+      ],
+      [
+        27.8,
+        51.6
+      ],
+      [
+        29.2,
+        50.25
+      ]
+    ],
+    "lastUpdate": "2026-06-09T08:02:20Z"
+  },
+  {
+    "id": "SH1010",
+    "name": "IRAN SHAHED",
+    "mmsi": "422726552",
+    "operator": "Caspian Cargo Line",
+    "shipType": "cargo",
+    "lat": 28.2553,
+    "lon": 51.2098,
+    "heading_deg": 323,
+    "speed_kts": 13.4,
+    "draft_m": 11.3,
+    "length_m": 243,
+    "origin_port": "Bandar Abbas",
+    "destination_port": "Kuwait",
+    "path": [
+      [
+        26.95,
+        56.15
+      ],
+      [
+        26.7,
+        55.9
+      ],
+      [
+        26.4,
+        54.85
+      ],
+      [
+        26.45,
+        53.85
+      ],
+      [
+        26.7,
+        53.25
+      ],
+      [
+        27.8,
+        51.6
+      ],
+      [
+        28.85,
+        50.7
+      ],
+      [
+        29.3,
+        48.85
+      ]
+    ],
+    "lastUpdate": "2026-06-09T03:46:58Z"
+  },
+  {
+    "id": "SH1011",
+    "name": "TOUSKA",
+    "mmsi": "422341031",
+    "operator": "IRISL",
+    "shipType": "cargo",
+    "lat": 26.6929,
+    "lon": 53.267,
+    "heading_deg": 295,
+    "speed_kts": 14.6,
+    "draft_m": 10.2,
+    "length_m": 141,
+    "origin_port": "Bandar Abbas",
+    "destination_port": "Bandar Imam Khomeini",
+    "path": [
+      [
+        26.95,
+        56.15
+      ],
+      [
+        26.45,
+        53.85
+      ],
+      [
+        26.7,
+        53.25
+      ],
+      [
+        27.8,
+        51.6
+      ],
+      [
+        29.2,
+        50.25
+      ],
+      [
+        29.95,
+        49.05
+      ]
+    ],
+    "lastUpdate": "2026-06-09T21:07:38Z"
+  },
+  {
+    "id": "SH1012",
+    "name": "ARTAM",
+    "mmsi": "422768049",
+    "operator": "Caspian Cargo Line",
+    "shipType": "cargo",
+    "lat": 25.94,
+    "lon": 57.025,
+    "heading_deg": 143,
+    "speed_kts": 12.2,
+    "draft_m": 9.3,
+    "length_m": 270,
+    "origin_port": "Bandar Abbas",
+    "destination_port": "Chabahar",
+    "path": [
+      [
+        26.95,
+        56.15
+      ],
+      [
+        26.45,
+        56.6
+      ],
+      [
+        25.85,
+        57.1
+      ],
+      [
+        25.2,
+        57.9
+      ],
+      [
+        24.7,
+        58.9
+      ],
+      [
+        24.45,
+        60.1
+      ],
+      [
+        25.15,
+        60.55
+      ]
+    ],
+    "lastUpdate": "2026-06-09T05:36:56Z"
+  },
+  {
+    "id": "SH1013",
+    "name": "AZARGOUN",
+    "mmsi": "422422749",
+    "operator": "IRISL",
+    "shipType": "cargo",
+    "lat": 38.1924,
+    "lon": 50.883,
+    "heading_deg": 60,
+    "speed_kts": 15.7,
+    "draft_m": 8.2,
+    "length_m": 274,
+    "origin_port": "Bandar Anzali",
+    "destination_port": "Turkmenbashi",
+    "path": [
+      [
+        37.55,
+        49.45
+      ],
+      [
+        38.2,
+        50.9
+      ],
+      [
+        39.6,
+        52.6
+      ]
+    ],
+    "lastUpdate": "2026-06-09T16:20:25Z"
+  },
+  {
+    "id": "SH1014",
+    "name": "GOLBON",
+    "mmsi": "422646845",
+    "operator": "IRISL",
+    "shipType": "cargo",
+    "lat": 38.4541,
+    "lon": 50.4282,
+    "heading_deg": 305,
+    "speed_kts": 13.4,
+    "draft_m": 12.4,
+    "length_m": 180,
+    "origin_port": "Amirabad",
+    "destination_port": "Baku",
+    "path": [
+      [
+        36.95,
+        53.25
+      ],
+      [
+        38.2,
+        50.9
+      ],
+      [
+        38.9,
+        49.6
+      ]
+    ],
+    "lastUpdate": "2026-06-09T19:20:32Z"
+  },
+  {
+    "id": "SH1015",
+    "name": "SHABDIS",
+    "mmsi": "422318123",
+    "operator": "Caspian Cargo Line",
+    "shipType": "cargo",
+    "lat": 27.6157,
+    "lon": 51.8765,
+    "heading_deg": 307,
+    "speed_kts": 11,
+    "draft_m": 9.6,
+    "length_m": 165,
+    "origin_port": "Bandar Abbas",
+    "destination_port": "Kuwait",
+    "path": [
+      [
+        26.95,
+        56.15
+      ],
+      [
+        26.7,
+        55.9
+      ],
+      [
+        26.4,
+        54.85
+      ],
+      [
+        26.45,
+        53.85
+      ],
+      [
+        26.7,
+        53.25
+      ],
+      [
+        27.8,
+        51.6
+      ],
+      [
+        28.85,
+        50.7
+      ],
+      [
+        29.3,
+        48.85
+      ]
+    ],
+    "lastUpdate": "2026-06-09T10:31:48Z"
+  },
+  {
+    "id": "SH1016",
+    "name": "RAYEN TRADER",
+    "mmsi": "422901643",
+    "operator": "IRISL",
+    "shipType": "cargo",
+    "lat": 27.5661,
+    "lon": 51.9509,
+    "heading_deg": 307,
+    "speed_kts": 15.8,
+    "draft_m": 12.2,
+    "length_m": 144,
+    "origin_port": "Bandar Abbas",
+    "destination_port": "Bandar Imam Khomeini",
+    "path": [
+      [
+        26.95,
+        56.15
+      ],
+      [
+        26.45,
+        53.85
+      ],
+      [
+        26.7,
+        53.25
+      ],
+      [
+        27.8,
+        51.6
+      ],
+      [
+        29.2,
+        50.25
+      ],
+      [
+        29.95,
+        49.05
+      ]
+    ],
+    "lastUpdate": "2026-06-09T04:41:31Z"
+  },
+  {
+    "id": "SH1017",
+    "name": "CASPIAN LINK",
+    "mmsi": "422549590",
+    "operator": "Khazar Shipping",
+    "shipType": "cargo",
+    "lat": 24.4773,
+    "lon": 59.9691,
+    "heading_deg": 103,
+    "speed_kts": 13.3,
+    "draft_m": 10,
+    "length_m": 163,
+    "origin_port": "Bandar Abbas",
+    "destination_port": "Chabahar",
+    "path": [
+      [
+        26.95,
+        56.15
+      ],
+      [
+        26.45,
+        56.6
+      ],
+      [
+        25.85,
+        57.1
+      ],
+      [
+        25.2,
+        57.9
+      ],
+      [
+        24.7,
+        58.9
+      ],
+      [
+        24.45,
+        60.1
+      ],
+      [
+        25.15,
+        60.55
+      ]
+    ],
+    "lastUpdate": "2026-06-09T19:34:11Z"
+  },
+  {
+    "id": "SH1018",
+    "name": "VOLGA BRIDGE",
+    "mmsi": "422751025",
+    "operator": "Caspian Cargo Line",
+    "shipType": "cargo",
+    "lat": 37.9518,
+    "lon": 50.3464,
+    "heading_deg": 60,
+    "speed_kts": 13.8,
+    "draft_m": 12.1,
+    "length_m": 189,
+    "origin_port": "Bandar Anzali",
+    "destination_port": "Turkmenbashi",
+    "path": [
+      [
+        37.55,
+        49.45
+      ],
+      [
+        38.2,
+        50.9
+      ],
+      [
+        39.6,
+        52.6
+      ]
+    ],
+    "lastUpdate": "2026-06-09T21:35:03Z"
+  },
+  {
+    "id": "SH1019",
+    "name": "ABTIN CARRIER",
+    "mmsi": "422794476",
+    "operator": "Khazar Shipping",
+    "shipType": "cargo",
+    "lat": 37.7094,
+    "lon": 51.8224,
+    "heading_deg": 304,
+    "speed_kts": 14,
+    "draft_m": 12.9,
+    "length_m": 280,
+    "origin_port": "Amirabad",
+    "destination_port": "Baku",
+    "path": [
+      [
+        36.95,
+        53.25
+      ],
+      [
+        38.2,
+        50.9
+      ],
+      [
+        38.9,
+        49.6
+      ]
+    ],
+    "lastUpdate": "2026-06-09T19:09:21Z"
+  },
+  {
+    "id": "SH1020",
+    "name": "MORVARID",
+    "mmsi": "422907544",
+    "operator": "Hormozgan Fishers",
+    "shipType": "fishing",
+    "lat": 26.7817,
+    "lon": 55.831,
+    "heading_deg": 52,
+    "speed_kts": 8.9,
+    "draft_m": 2.9,
+    "length_m": 39,
+    "origin_port": "Bandar Abbas",
+    "destination_port": "Fishing grounds (Hormozgan)",
+    "path": [
+      [
+        26.9,
+        56
+      ],
+      [
+        26.6,
+        56.3
+      ],
+      [
+        26.3,
+        55.8
+      ],
+      [
+        26.55,
+        55.5
+      ],
+      [
+        26.9,
+        56
+      ],
+      [
+        26.6,
+        56.3
+      ],
+      [
+        26.3,
+        55.8
+      ],
+      [
+        26.55,
+        55.5
+      ],
+      [
+        26.9,
+        56
+      ],
+      [
+        26.6,
+        56.3
+      ],
+      [
+        26.3,
+        55.8
+      ],
+      [
+        26.55,
+        55.5
+      ],
+      [
+        26.9,
+        56
+      ],
+      [
+        26.6,
+        56.3
+      ],
+      [
+        26.3,
+        55.8
+      ],
+      [
+        26.55,
+        55.5
+      ],
+      [
+        26.9,
+        56
+      ],
+      [
+        26.6,
+        56.3
+      ],
+      [
+        26.3,
+        55.8
+      ],
+      [
+        26.55,
+        55.5
+      ],
+      [
+        26.9,
+        56
+      ],
+      [
+        26.6,
+        56.3
+      ],
+      [
+        26.3,
+        55.8
+      ],
+      [
+        26.55,
+        55.5
+      ],
+      [
+        26.9,
+        56
+      ]
+    ],
+    "lastUpdate": "2026-06-09T00:29:08Z"
+  },
+  {
+    "id": "SH1021",
+    "name": "SADAF 3",
+    "mmsi": "422883603",
+    "operator": "Hormozgan Fishers",
+    "shipType": "fishing",
+    "lat": 28.429,
+    "lon": 50.5008,
+    "heading_deg": 57,
+    "speed_kts": 4.8,
+    "draft_m": 5,
+    "length_m": 41,
+    "origin_port": "Bushehr",
+    "destination_port": "Fishing grounds (Bushehr)",
+    "path": [
+      [
+        28.6,
+        50.8
+      ],
+      [
+        28.3,
+        51.1
+      ],
+      [
+        28,
+        50.7
+      ],
+      [
+        28.4,
+        50.45
+      ],
+      [
+        28.6,
+        50.8
+      ],
+      [
+        28.3,
+        51.1
+      ],
+      [
+        28,
+        50.7
+      ],
+      [
+        28.4,
+        50.45
+      ],
+      [
+        28.6,
+        50.8
+      ],
+      [
+        28.3,
+        51.1
+      ],
+      [
+        28,
+        50.7
+      ],
+      [
+        28.4,
+        50.45
+      ],
+      [
+        28.6,
+        50.8
+      ],
+      [
+        28.3,
+        51.1
+      ],
+      [
+        28,
+        50.7
+      ],
+      [
+        28.4,
+        50.45
+      ],
+      [
+        28.6,
+        50.8
+      ],
+      [
+        28.3,
+        51.1
+      ],
+      [
+        28,
+        50.7
+      ],
+      [
+        28.4,
+        50.45
+      ],
+      [
+        28.6,
+        50.8
+      ],
+      [
+        28.3,
+        51.1
+      ],
+      [
+        28,
+        50.7
+      ],
+      [
+        28.4,
+        50.45
+      ],
+      [
+        28.6,
+        50.8
+      ]
+    ],
+    "lastUpdate": "2026-06-09T18:33:33Z"
+  },
+  {
+    "id": "SH1022",
+    "name": "MAHI GOLD",
+    "mmsi": "422885432",
+    "operator": "Hormozgan Fishers",
+    "shipType": "fishing",
+    "lat": 24.8721,
+    "lon": 60.0588,
+    "heading_deg": 67,
+    "speed_kts": 5.8,
+    "draft_m": 2.5,
+    "length_m": 44,
+    "origin_port": "Chabahar",
+    "destination_port": "Fishing grounds (Oman Sea)",
+    "path": [
+      [
+        25,
+        60.4
+      ],
+      [
+        24.75,
+        60.8
+      ],
+      [
+        24.55,
+        60.3
+      ],
+      [
+        24.85,
+        60
+      ],
+      [
+        25,
+        60.4
+      ],
+      [
+        24.75,
+        60.8
+      ],
+      [
+        24.55,
+        60.3
+      ],
+      [
+        24.85,
+        60
+      ],
+      [
+        25,
+        60.4
+      ],
+      [
+        24.75,
+        60.8
+      ],
+      [
+        24.55,
+        60.3
+      ],
+      [
+        24.85,
+        60
+      ],
+      [
+        25,
+        60.4
+      ],
+      [
+        24.75,
+        60.8
+      ],
+      [
+        24.55,
+        60.3
+      ],
+      [
+        24.85,
+        60
+      ],
+      [
+        25,
+        60.4
+      ],
+      [
+        24.75,
+        60.8
+      ],
+      [
+        24.55,
+        60.3
+      ],
+      [
+        24.85,
+        60
+      ],
+      [
+        25,
+        60.4
+      ],
+      [
+        24.75,
+        60.8
+      ],
+      [
+        24.55,
+        60.3
+      ],
+      [
+        24.85,
+        60
+      ],
+      [
+        25,
+        60.4
+      ]
+    ],
+    "lastUpdate": "2026-06-09T02:28:01Z"
+  },
+  {
+    "id": "SH1023",
+    "name": "DARYA BAHAR",
+    "mmsi": "422120068",
+    "operator": "Caspian Fisheries",
+    "shipType": "fishing",
+    "lat": 37.0972,
+    "lon": 50.2924,
+    "heading_deg": 126,
+    "speed_kts": 5.7,
+    "draft_m": 3.9,
+    "length_m": 39,
+    "origin_port": "Bandar Anzali",
+    "destination_port": "Fishing grounds (Caspian)",
+    "path": [
+      [
+        37,
+        49.8
+      ],
+      [
+        37.15,
+        50.2
+      ],
+      [
+        36.95,
+        50.55
+      ],
+      [
+        36.8,
+        50.1
+      ],
+      [
+        37,
+        49.8
+      ],
+      [
+        37.15,
+        50.2
+      ],
+      [
+        36.95,
+        50.55
+      ],
+      [
+        36.8,
+        50.1
+      ],
+      [
+        37,
+        49.8
+      ],
+      [
+        37.15,
+        50.2
+      ],
+      [
+        36.95,
+        50.55
+      ],
+      [
+        36.8,
+        50.1
+      ],
+      [
+        37,
+        49.8
+      ],
+      [
+        37.15,
+        50.2
+      ],
+      [
+        36.95,
+        50.55
+      ],
+      [
+        36.8,
+        50.1
+      ],
+      [
+        37,
+        49.8
+      ],
+      [
+        37.15,
+        50.2
+      ],
+      [
+        36.95,
+        50.55
+      ],
+      [
+        36.8,
+        50.1
+      ],
+      [
+        37,
+        49.8
+      ],
+      [
+        37.15,
+        50.2
+      ],
+      [
+        36.95,
+        50.55
+      ],
+      [
+        36.8,
+        50.1
+      ],
+      [
+        37,
+        49.8
+      ]
+    ],
+    "lastUpdate": "2026-06-09T05:05:47Z"
+  },
+  {
+    "id": "SH1024",
+    "name": "NASIM JONOUB",
+    "mmsi": "422684205",
+    "operator": "Caspian Fisheries",
+    "shipType": "fishing",
+    "lat": 26.7634,
+    "lon": 55.8048,
+    "heading_deg": 52,
+    "speed_kts": 5.9,
+    "draft_m": 4.8,
+    "length_m": 37,
+    "origin_port": "Bandar Abbas",
+    "destination_port": "Fishing grounds (Hormozgan)",
+    "path": [
+      [
+        26.9,
+        56
+      ],
+      [
+        26.6,
+        56.3
+      ],
+      [
+        26.3,
+        55.8
+      ],
+      [
+        26.55,
+        55.5
+      ],
+      [
+        26.9,
+        56
+      ],
+      [
+        26.6,
+        56.3
+      ],
+      [
+        26.3,
+        55.8
+      ],
+      [
+        26.55,
+        55.5
+      ],
+      [
+        26.9,
+        56
+      ],
+      [
+        26.6,
+        56.3
+      ],
+      [
+        26.3,
+        55.8
+      ],
+      [
+        26.55,
+        55.5
+      ],
+      [
+        26.9,
+        56
+      ],
+      [
+        26.6,
+        56.3
+      ],
+      [
+        26.3,
+        55.8
+      ],
+      [
+        26.55,
+        55.5
+      ],
+      [
+        26.9,
+        56
+      ],
+      [
+        26.6,
+        56.3
+      ],
+      [
+        26.3,
+        55.8
+      ],
+      [
+        26.55,
+        55.5
+      ],
+      [
+        26.9,
+        56
+      ],
+      [
+        26.6,
+        56.3
+      ],
+      [
+        26.3,
+        55.8
+      ],
+      [
+        26.55,
+        55.5
+      ],
+      [
+        26.9,
+        56
+      ]
+    ],
+    "lastUpdate": "2026-06-09T22:49:00Z"
+  },
+  {
+    "id": "SH1025",
+    "name": "KOOSEH",
+    "mmsi": "422242173",
+    "operator": "South Fishing Co-op",
+    "shipType": "fishing",
+    "lat": 28.2502,
+    "lon": 50.5436,
+    "heading_deg": 331,
+    "speed_kts": 4.3,
+    "draft_m": 4.8,
+    "length_m": 33,
+    "origin_port": "Bushehr",
+    "destination_port": "Fishing grounds (Bushehr)",
+    "path": [
+      [
+        28.6,
+        50.8
+      ],
+      [
+        28.3,
+        51.1
+      ],
+      [
+        28,
+        50.7
+      ],
+      [
+        28.4,
+        50.45
+      ],
+      [
+        28.6,
+        50.8
+      ],
+      [
+        28.3,
+        51.1
+      ],
+      [
+        28,
+        50.7
+      ],
+      [
+        28.4,
+        50.45
+      ],
+      [
+        28.6,
+        50.8
+      ],
+      [
+        28.3,
+        51.1
+      ],
+      [
+        28,
+        50.7
+      ],
+      [
+        28.4,
+        50.45
+      ],
+      [
+        28.6,
+        50.8
+      ],
+      [
+        28.3,
+        51.1
+      ],
+      [
+        28,
+        50.7
+      ],
+      [
+        28.4,
+        50.45
+      ],
+      [
+        28.6,
+        50.8
+      ],
+      [
+        28.3,
+        51.1
+      ],
+      [
+        28,
+        50.7
+      ],
+      [
+        28.4,
+        50.45
+      ],
+      [
+        28.6,
+        50.8
+      ],
+      [
+        28.3,
+        51.1
+      ],
+      [
+        28,
+        50.7
+      ],
+      [
+        28.4,
+        50.45
+      ],
+      [
+        28.6,
+        50.8
+      ]
+    ],
+    "lastUpdate": "2026-06-09T12:30:04Z"
+  },
+  {
+    "id": "SH1026",
+    "name": "SEPID MAHI",
+    "mmsi": "422784508",
+    "operator": "Caspian Fisheries",
+    "shipType": "fishing",
+    "lat": 24.9769,
+    "lon": 60.437,
+    "heading_deg": 124,
+    "speed_kts": 5.1,
+    "draft_m": 4.5,
+    "length_m": 29,
+    "origin_port": "Chabahar",
+    "destination_port": "Fishing grounds (Oman Sea)",
+    "path": [
+      [
+        25,
+        60.4
+      ],
+      [
+        24.75,
+        60.8
+      ],
+      [
+        24.55,
+        60.3
+      ],
+      [
+        24.85,
+        60
+      ],
+      [
+        25,
+        60.4
+      ],
+      [
+        24.75,
+        60.8
+      ],
+      [
+        24.55,
+        60.3
+      ],
+      [
+        24.85,
+        60
+      ],
+      [
+        25,
+        60.4
+      ],
+      [
+        24.75,
+        60.8
+      ],
+      [
+        24.55,
+        60.3
+      ],
+      [
+        24.85,
+        60
+      ],
+      [
+        25,
+        60.4
+      ],
+      [
+        24.75,
+        60.8
+      ],
+      [
+        24.55,
+        60.3
+      ],
+      [
+        24.85,
+        60
+      ],
+      [
+        25,
+        60.4
+      ],
+      [
+        24.75,
+        60.8
+      ],
+      [
+        24.55,
+        60.3
+      ],
+      [
+        24.85,
+        60
+      ],
+      [
+        25,
+        60.4
+      ],
+      [
+        24.75,
+        60.8
+      ],
+      [
+        24.55,
+        60.3
+      ],
+      [
+        24.85,
+        60
+      ],
+      [
+        25,
+        60.4
+      ]
+    ],
+    "lastUpdate": "2026-06-09T14:32:44Z"
+  },
+  {
+    "id": "SH1027",
+    "name": "MOJ KHAZAR",
+    "mmsi": "422559877",
+    "operator": "Caspian Fisheries",
+    "shipType": "fishing",
+    "lat": 36.8328,
+    "lon": 50.1983,
+    "heading_deg": 247,
+    "speed_kts": 5.1,
+    "draft_m": 3.1,
+    "length_m": 23,
+    "origin_port": "Bandar Anzali",
+    "destination_port": "Fishing grounds (Caspian)",
+    "path": [
+      [
+        37,
+        49.8
+      ],
+      [
+        37.15,
+        50.2
+      ],
+      [
+        36.95,
+        50.55
+      ],
+      [
+        36.8,
+        50.1
+      ],
+      [
+        37,
+        49.8
+      ],
+      [
+        37.15,
+        50.2
+      ],
+      [
+        36.95,
+        50.55
+      ],
+      [
+        36.8,
+        50.1
+      ],
+      [
+        37,
+        49.8
+      ],
+      [
+        37.15,
+        50.2
+      ],
+      [
+        36.95,
+        50.55
+      ],
+      [
+        36.8,
+        50.1
+      ],
+      [
+        37,
+        49.8
+      ],
+      [
+        37.15,
+        50.2
+      ],
+      [
+        36.95,
+        50.55
+      ],
+      [
+        36.8,
+        50.1
+      ],
+      [
+        37,
+        49.8
+      ],
+      [
+        37.15,
+        50.2
+      ],
+      [
+        36.95,
+        50.55
+      ],
+      [
+        36.8,
+        50.1
+      ],
+      [
+        37,
+        49.8
+      ],
+      [
+        37.15,
+        50.2
+      ],
+      [
+        36.95,
+        50.55
+      ],
+      [
+        36.8,
+        50.1
+      ],
+      [
+        37,
+        49.8
+      ]
+    ],
+    "lastUpdate": "2026-06-09T23:33:18Z"
+  },
+  {
+    "id": "SH1028",
+    "name": "TALA DARYA",
+    "mmsi": "422187031",
+    "operator": "South Fishing Co-op",
+    "shipType": "fishing",
+    "lat": 26.4717,
+    "lon": 56.0861,
+    "heading_deg": 236,
+    "speed_kts": 7.1,
+    "draft_m": 4.6,
+    "length_m": 20,
+    "origin_port": "Bandar Abbas",
+    "destination_port": "Fishing grounds (Hormozgan)",
+    "path": [
+      [
+        26.9,
+        56
+      ],
+      [
+        26.6,
+        56.3
+      ],
+      [
+        26.3,
+        55.8
+      ],
+      [
+        26.55,
+        55.5
+      ],
+      [
+        26.9,
+        56
+      ],
+      [
+        26.6,
+        56.3
+      ],
+      [
+        26.3,
+        55.8
+      ],
+      [
+        26.55,
+        55.5
+      ],
+      [
+        26.9,
+        56
+      ],
+      [
+        26.6,
+        56.3
+      ],
+      [
+        26.3,
+        55.8
+      ],
+      [
+        26.55,
+        55.5
+      ],
+      [
+        26.9,
+        56
+      ],
+      [
+        26.6,
+        56.3
+      ],
+      [
+        26.3,
+        55.8
+      ],
+      [
+        26.55,
+        55.5
+      ],
+      [
+        26.9,
+        56
+      ],
+      [
+        26.6,
+        56.3
+      ],
+      [
+        26.3,
+        55.8
+      ],
+      [
+        26.55,
+        55.5
+      ],
+      [
+        26.9,
+        56
+      ],
+      [
+        26.6,
+        56.3
+      ],
+      [
+        26.3,
+        55.8
+      ],
+      [
+        26.55,
+        55.5
+      ],
+      [
+        26.9,
+        56
+      ]
+    ],
+    "lastUpdate": "2026-06-09T02:15:22Z"
+  },
+  {
+    "id": "SH1029",
+    "name": "VALFAJR 7",
+    "mmsi": "422941828",
+    "operator": "Caspian Ferry Lines",
+    "shipType": "passenger",
+    "lat": 27.7351,
+    "lon": 51.6974,
+    "heading_deg": 127,
+    "speed_kts": 19.8,
+    "draft_m": 3.5,
+    "length_m": 81,
+    "origin_port": "Bushehr",
+    "destination_port": "Kish Island",
+    "path": [
+      [
+        28.85,
+        50.7
+      ],
+      [
+        27.8,
+        51.6
+      ],
+      [
+        26.7,
+        53.25
+      ],
+      [
+        26.45,
+        53.85
+      ]
+    ],
+    "lastUpdate": "2026-06-09T14:57:10Z"
+  },
+  {
+    "id": "SH1030",
+    "name": "HORMUZ EXPRESS",
+    "mmsi": "422909635",
+    "operator": "Valfajr Shipping",
+    "shipType": "passenger",
+    "lat": 26.0317,
+    "lon": 54.6525,
+    "heading_deg": 239,
+    "speed_kts": 21.1,
+    "draft_m": 5.2,
+    "length_m": 84,
+    "origin_port": "Bandar Abbas",
+    "destination_port": "Dubai",
+    "path": [
+      [
+        26.95,
+        56.15
+      ],
+      [
+        26.7,
+        55.9
+      ],
+      [
+        25.95,
+        54.5
+      ],
+      [
+        25.45,
+        55.2
+      ]
+    ],
+    "lastUpdate": "2026-06-09T03:12:05Z"
+  },
+  {
+    "id": "SH1031",
+    "name": "KISH PRINCESS",
+    "mmsi": "422877614",
+    "operator": "Caspian Ferry Lines",
+    "shipType": "passenger",
+    "lat": 26.5524,
+    "lon": 53.6043,
+    "heading_deg": 295,
+    "speed_kts": 23.1,
+    "draft_m": 3.7,
+    "length_m": 117,
+    "origin_port": "Bandar Lengeh",
+    "destination_port": "Lavan Island",
+    "path": [
+      [
+        26.4,
+        54.85
+      ],
+      [
+        26.45,
+        53.85
+      ],
+      [
+        26.7,
+        53.25
+      ]
+    ],
+    "lastUpdate": "2026-06-09T19:47:16Z"
+  },
+  {
+    "id": "SH1032",
+    "name": "SETARE KHALIJ",
+    "mmsi": "422868845",
+    "operator": "Caspian Ferry Lines",
+    "shipType": "passenger",
+    "lat": 37.4698,
+    "lon": 49.7175,
+    "heading_deg": 110,
+    "speed_kts": 26.5,
+    "draft_m": 5.8,
+    "length_m": 124,
+    "origin_port": "Bandar Anzali",
+    "destination_port": "Nowshahr",
+    "path": [
+      [
+        37.55,
+        49.45
+      ],
+      [
+        37.25,
+        50.45
+      ],
+      [
+        36.85,
+        51.5
+      ]
+    ],
+    "lastUpdate": "2026-06-09T21:34:01Z"
+  },
+  {
+    "id": "SH1033",
+    "name": "KHAZAR QUEEN",
+    "mmsi": "422679163",
+    "operator": "Caspian Ferry Lines",
+    "shipType": "passenger",
+    "lat": 27.0447,
+    "lon": 52.733,
+    "heading_deg": 127,
+    "speed_kts": 22.6,
+    "draft_m": 5.8,
+    "length_m": 99,
+    "origin_port": "Bushehr",
+    "destination_port": "Kish Island",
+    "path": [
+      [
+        28.85,
+        50.7
+      ],
+      [
+        27.8,
+        51.6
+      ],
+      [
+        26.7,
+        53.25
+      ],
+      [
+        26.45,
+        53.85
+      ]
+    ],
+    "lastUpdate": "2026-06-09T13:53:35Z"
+  },
+  {
+    "id": "SH1034",
+    "name": "ARVAND FERRY",
+    "mmsi": "422743574",
+    "operator": "Valfajr Shipping",
+    "shipType": "passenger",
+    "lat": 25.8474,
+    "lon": 54.6437,
+    "heading_deg": 128,
+    "speed_kts": 25.1,
+    "draft_m": 5.4,
+    "length_m": 100,
+    "origin_port": "Bandar Abbas",
+    "destination_port": "Dubai",
+    "path": [
+      [
+        26.95,
+        56.15
+      ],
+      [
+        26.7,
+        55.9
+      ],
+      [
+        25.95,
+        54.5
+      ],
+      [
+        25.45,
+        55.2
+      ]
+    ],
+    "lastUpdate": "2026-06-09T07:48:26Z"
+  },
+  {
+    "id": "SH1035",
+    "name": "YADAK 12",
+    "mmsi": "422571838",
+    "operator": "PMO Harbor Services",
+    "shipType": "tug",
+    "lat": 26.9257,
+    "lon": 56.0367,
+    "heading_deg": 287,
+    "speed_kts": 7.2,
+    "draft_m": 4.2,
+    "length_m": 24,
+    "origin_port": "Shahid Rajaee Port",
+    "destination_port": "Harbor operations",
+    "path": [
+      [
+        27,
+        56.05
+      ],
+      [
+        26.88,
+        56.2
+      ],
+      [
+        26.95,
+        55.95
+      ],
+      [
+        27,
+        56.05
+      ],
+      [
+        26.88,
+        56.2
+      ],
+      [
+        26.95,
+        55.95
+      ],
+      [
+        27,
+        56.05
+      ],
+      [
+        26.88,
+        56.2
+      ],
+      [
+        26.95,
+        55.95
+      ],
+      [
+        27,
+        56.05
+      ],
+      [
+        26.88,
+        56.2
+      ],
+      [
+        26.95,
+        55.95
+      ],
+      [
+        27,
+        56.05
+      ],
+      [
+        26.88,
+        56.2
+      ],
+      [
+        26.95,
+        55.95
+      ],
+      [
+        27,
+        56.05
+      ],
+      [
+        26.88,
+        56.2
+      ],
+      [
+        26.95,
+        55.95
+      ],
+      [
+        27,
+        56.05
+      ],
+      [
+        26.88,
+        56.2
+      ],
+      [
+        26.95,
+        55.95
+      ],
+      [
+        27,
+        56.05
+      ],
+      [
+        26.88,
+        56.2
+      ],
+      [
+        26.95,
+        55.95
+      ],
+      [
+        27,
+        56.05
+      ]
+    ],
+    "lastUpdate": "2026-06-09T17:08:07Z"
+  },
+  {
+    "id": "SH1036",
+    "name": "HARBOR WOLF",
+    "mmsi": "422428589",
+    "operator": "PMO Harbor Services",
+    "shipType": "tug",
+    "lat": 28.8573,
+    "lon": 50.6689,
+    "heading_deg": 66,
+    "speed_kts": 8.2,
+    "draft_m": 3,
+    "length_m": 26,
+    "origin_port": "Bushehr Port",
+    "destination_port": "Harbor operations",
+    "path": [
+      [
+        28.9,
+        50.78
+      ],
+      [
+        28.78,
+        50.9
+      ],
+      [
+        28.85,
+        50.65
+      ],
+      [
+        28.9,
+        50.78
+      ],
+      [
+        28.78,
+        50.9
+      ],
+      [
+        28.85,
+        50.65
+      ],
+      [
+        28.9,
+        50.78
+      ],
+      [
+        28.78,
+        50.9
+      ],
+      [
+        28.85,
+        50.65
+      ],
+      [
+        28.9,
+        50.78
+      ],
+      [
+        28.78,
+        50.9
+      ],
+      [
+        28.85,
+        50.65
+      ],
+      [
+        28.9,
+        50.78
+      ],
+      [
+        28.78,
+        50.9
+      ],
+      [
+        28.85,
+        50.65
+      ],
+      [
+        28.9,
+        50.78
+      ],
+      [
+        28.78,
+        50.9
+      ],
+      [
+        28.85,
+        50.65
+      ],
+      [
+        28.9,
+        50.78
+      ],
+      [
+        28.78,
+        50.9
+      ],
+      [
+        28.85,
+        50.65
+      ],
+      [
+        28.9,
+        50.78
+      ],
+      [
+        28.78,
+        50.9
+      ],
+      [
+        28.85,
+        50.65
+      ],
+      [
+        28.9,
+        50.78
+      ]
+    ],
+    "lastUpdate": "2026-06-09T23:51:21Z"
+  },
+  {
+    "id": "SH1037",
+    "name": "RAJAEE TUG 3",
+    "mmsi": "422142632",
+    "operator": "PMO Harbor Services",
+    "shipType": "tug",
+    "lat": 26.8852,
+    "lon": 56.1935,
+    "heading_deg": 132,
+    "speed_kts": 5.7,
+    "draft_m": 3.9,
+    "length_m": 34,
+    "origin_port": "Shahid Rajaee Port",
+    "destination_port": "Harbor operations",
+    "path": [
+      [
+        27,
+        56.05
+      ],
+      [
+        26.88,
+        56.2
+      ],
+      [
+        26.95,
+        55.95
+      ],
+      [
+        27,
+        56.05
+      ],
+      [
+        26.88,
+        56.2
+      ],
+      [
+        26.95,
+        55.95
+      ],
+      [
+        27,
+        56.05
+      ],
+      [
+        26.88,
+        56.2
+      ],
+      [
+        26.95,
+        55.95
+      ],
+      [
+        27,
+        56.05
+      ],
+      [
+        26.88,
+        56.2
+      ],
+      [
+        26.95,
+        55.95
+      ],
+      [
+        27,
+        56.05
+      ],
+      [
+        26.88,
+        56.2
+      ],
+      [
+        26.95,
+        55.95
+      ],
+      [
+        27,
+        56.05
+      ],
+      [
+        26.88,
+        56.2
+      ],
+      [
+        26.95,
+        55.95
+      ],
+      [
+        27,
+        56.05
+      ],
+      [
+        26.88,
+        56.2
+      ],
+      [
+        26.95,
+        55.95
+      ],
+      [
+        27,
+        56.05
+      ],
+      [
+        26.88,
+        56.2
+      ],
+      [
+        26.95,
+        55.95
+      ],
+      [
+        27,
+        56.05
+      ]
+    ],
+    "lastUpdate": "2026-06-09T05:14:50Z"
+  },
+  {
+    "id": "SH1038",
+    "name": "BUSHEHR PILOT",
+    "mmsi": "422845385",
+    "operator": "PMO Harbor Services",
+    "shipType": "tug",
+    "lat": 28.8291,
+    "lon": 50.8509,
+    "heading_deg": 139,
+    "speed_kts": 8.4,
+    "draft_m": 3,
+    "length_m": 24,
+    "origin_port": "Bushehr Port",
+    "destination_port": "Harbor operations",
+    "path": [
+      [
+        28.9,
+        50.78
+      ],
+      [
+        28.78,
+        50.9
+      ],
+      [
+        28.85,
+        50.65
+      ],
+      [
+        28.9,
+        50.78
+      ],
+      [
+        28.78,
+        50.9
+      ],
+      [
+        28.85,
+        50.65
+      ],
+      [
+        28.9,
+        50.78
+      ],
+      [
+        28.78,
+        50.9
+      ],
+      [
+        28.85,
+        50.65
+      ],
+      [
+        28.9,
+        50.78
+      ],
+      [
+        28.78,
+        50.9
+      ],
+      [
+        28.85,
+        50.65
+      ],
+      [
+        28.9,
+        50.78
+      ],
+      [
+        28.78,
+        50.9
+      ],
+      [
+        28.85,
+        50.65
+      ],
+      [
+        28.9,
+        50.78
+      ],
+      [
+        28.78,
+        50.9
+      ],
+      [
+        28.85,
+        50.65
+      ],
+      [
+        28.9,
+        50.78
+      ],
+      [
+        28.78,
+        50.9
+      ],
+      [
+        28.85,
+        50.65
+      ],
+      [
+        28.9,
+        50.78
+      ],
+      [
+        28.78,
+        50.9
+      ],
+      [
+        28.85,
+        50.65
+      ],
+      [
+        28.9,
+        50.78
+      ]
+    ],
+    "lastUpdate": "2026-06-09T04:29:22Z"
+  },
+  {
+    "id": "SH1039",
+    "name": "JAMARAN",
+    "mmsi": "422525456",
+    "operator": "IRIN",
+    "shipType": "military",
+    "lat": 26.3509,
+    "lon": 56.1924,
+    "heading_deg": 37,
+    "speed_kts": 23.9,
+    "draft_m": 5.5,
+    "length_m": 119,
+    "origin_port": "Bandar Abbas Naval Base",
+    "destination_port": "Strait of Hormuz patrol",
+    "path": [
+      [
+        26.6,
+        56.4
+      ],
+      [
+        26.2,
+        56.8
+      ],
+      [
+        25.95,
+        56.95
+      ],
+      [
+        26.3,
+        56.15
+      ],
+      [
+        26.6,
+        56.4
+      ],
+      [
+        26.2,
+        56.8
+      ],
+      [
+        25.95,
+        56.95
+      ],
+      [
+        26.3,
+        56.15
+      ],
+      [
+        26.6,
+        56.4
+      ],
+      [
+        26.2,
+        56.8
+      ],
+      [
+        25.95,
+        56.95
+      ],
+      [
+        26.3,
+        56.15
+      ],
+      [
+        26.6,
+        56.4
+      ],
+      [
+        26.2,
+        56.8
+      ],
+      [
+        25.95,
+        56.95
+      ],
+      [
+        26.3,
+        56.15
+      ],
+      [
+        26.6,
+        56.4
+      ],
+      [
+        26.2,
+        56.8
+      ],
+      [
+        25.95,
+        56.95
+      ],
+      [
+        26.3,
+        56.15
+      ],
+      [
+        26.6,
+        56.4
+      ]
+    ],
+    "lastUpdate": "2026-06-09T16:18:14Z"
+  },
+  {
+    "id": "SH1040",
+    "name": "SAHAND",
+    "mmsi": "422616137",
+    "operator": "Iran Coast Guard",
+    "shipType": "military",
+    "lat": 27.2051,
+    "lon": 51.4086,
+    "heading_deg": 56,
+    "speed_kts": 19,
+    "draft_m": 5.7,
+    "length_m": 121,
+    "origin_port": "Bushehr Naval Base",
+    "destination_port": "Central Gulf patrol",
+    "path": [
+      [
+        27.5,
+        51.9
+      ],
+      [
+        27,
+        52.4
+      ],
+      [
+        26.8,
+        51.8
+      ],
+      [
+        27.2,
+        51.4
+      ],
+      [
+        27.5,
+        51.9
+      ],
+      [
+        27,
+        52.4
+      ],
+      [
+        26.8,
+        51.8
+      ],
+      [
+        27.2,
+        51.4
+      ],
+      [
+        27.5,
+        51.9
+      ],
+      [
+        27,
+        52.4
+      ],
+      [
+        26.8,
+        51.8
+      ],
+      [
+        27.2,
+        51.4
+      ],
+      [
+        27.5,
+        51.9
+      ],
+      [
+        27,
+        52.4
+      ],
+      [
+        26.8,
+        51.8
+      ],
+      [
+        27.2,
+        51.4
+      ],
+      [
+        27.5,
+        51.9
+      ],
+      [
+        27,
+        52.4
+      ],
+      [
+        26.8,
+        51.8
+      ],
+      [
+        27.2,
+        51.4
+      ],
+      [
+        27.5,
+        51.9
+      ]
+    ],
+    "lastUpdate": "2026-06-09T02:35:37Z"
+  },
+  {
+    "id": "SH1041",
+    "name": "PAYKAN",
+    "mmsi": "422378226",
+    "operator": "Iran Coast Guard",
+    "shipType": "military",
+    "lat": 26.5774,
+    "lon": 56.4226,
+    "heading_deg": 138,
+    "speed_kts": 19.4,
+    "draft_m": 5.7,
+    "length_m": 83,
+    "origin_port": "Bandar Abbas Naval Base",
+    "destination_port": "Strait of Hormuz patrol",
+    "path": [
+      [
+        26.6,
+        56.4
+      ],
+      [
+        26.2,
+        56.8
+      ],
+      [
+        25.95,
+        56.95
+      ],
+      [
+        26.3,
+        56.15
+      ],
+      [
+        26.6,
+        56.4
+      ],
+      [
+        26.2,
+        56.8
+      ],
+      [
+        25.95,
+        56.95
+      ],
+      [
+        26.3,
+        56.15
+      ],
+      [
+        26.6,
+        56.4
+      ],
+      [
+        26.2,
+        56.8
+      ],
+      [
+        25.95,
+        56.95
+      ],
+      [
+        26.3,
+        56.15
+      ],
+      [
+        26.6,
+        56.4
+      ],
+      [
+        26.2,
+        56.8
+      ],
+      [
+        25.95,
+        56.95
+      ],
+      [
+        26.3,
+        56.15
+      ],
+      [
+        26.6,
+        56.4
+      ],
+      [
+        26.2,
+        56.8
+      ],
+      [
+        25.95,
+        56.95
+      ],
+      [
+        26.3,
+        56.15
+      ],
+      [
+        26.6,
+        56.4
+      ]
+    ],
+    "lastUpdate": "2026-06-09T12:22:07Z"
+  },
+  {
+    "id": "SH1042",
+    "name": "NAGHDI",
+    "mmsi": "422890187",
+    "operator": "IRIN",
+    "shipType": "military",
+    "lat": 27.4864,
+    "lon": 51.9136,
+    "heading_deg": 138,
+    "speed_kts": 25.6,
+    "draft_m": 5.3,
+    "length_m": 126,
+    "origin_port": "Bushehr Naval Base",
+    "destination_port": "Central Gulf patrol",
+    "path": [
+      [
+        27.5,
+        51.9
+      ],
+      [
+        27,
+        52.4
+      ],
+      [
+        26.8,
+        51.8
+      ],
+      [
+        27.2,
+        51.4
+      ],
+      [
+        27.5,
+        51.9
+      ],
+      [
+        27,
+        52.4
+      ],
+      [
+        26.8,
+        51.8
+      ],
+      [
+        27.2,
+        51.4
+      ],
+      [
+        27.5,
+        51.9
+      ],
+      [
+        27,
+        52.4
+      ],
+      [
+        26.8,
+        51.8
+      ],
+      [
+        27.2,
+        51.4
+      ],
+      [
+        27.5,
+        51.9
+      ],
+      [
+        27,
+        52.4
+      ],
+      [
+        26.8,
+        51.8
+      ],
+      [
+        27.2,
+        51.4
+      ],
+      [
+        27.5,
+        51.9
+      ],
+      [
+        27,
+        52.4
+      ],
+      [
+        26.8,
+        51.8
+      ],
+      [
+        27.2,
+        51.4
+      ],
+      [
+        27.5,
+        51.9
+      ]
+    ],
+    "lastUpdate": "2026-06-09T08:41:15Z"
+  }
+]

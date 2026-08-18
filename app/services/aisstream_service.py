@@ -157,6 +157,36 @@ class AISStreamService:
                             time_utc=time_utc,
                         )
 
+            elif msg_type == "ExtendedClassBPositionReport":
+                pos = msg_body.get("ExtendedClassBPositionReport", {})
+                lat = pos.get("Latitude") if pos.get("Latitude") is not None else meta.get("latitude")
+                lon = pos.get("Longitude") if pos.get("Longitude") is not None else meta.get("longitude")
+                raw_name = pos.get("Name") or ship_name
+                name = str(raw_name).strip() if raw_name else None
+                type_code = pos.get("Type") or pos.get("ShipType")
+                dimension = pos.get("Dimension")
+
+                if lat is not None and lon is not None:
+                    if abs(lat) <= 90.0 and abs(lon) <= 180.0 and not (abs(lat) < 0.001 and abs(lon) < 0.001):
+                        vessel_cache_manager.upsert_position_report(
+                            mmsi=mmsi,
+                            lat=float(lat),
+                            lon=float(lon),
+                            speed_kts=pos.get("Sog"),
+                            heading_deg=pos.get("TrueHeading"),
+                            cog=pos.get("Cog"),
+                            ship_name=name,
+                            time_utc=time_utc,
+                        )
+                if name or type_code or dimension:
+                    vessel_cache_manager.upsert_static_data(
+                        mmsi=mmsi,
+                        name=name,
+                        type_code=type_code,
+                        dimension=dimension,
+                        time_utc=time_utc,
+                    )
+
             elif msg_type == "ShipStaticData":
                 static = msg_body.get("ShipStaticData", {})
                 raw_name = static.get("Name") or ship_name
